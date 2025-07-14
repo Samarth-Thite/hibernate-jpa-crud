@@ -59,5 +59,7 @@ Edit
 | course | varchar |
 
 📝 Name: Samarth Prasad Thite
+
 ✉️ Email: samarththite1010@gmail.com
+
 🔗 GitHub: https://github.com/Samarth-Thite
